@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-s.source       = { :git => "https://github.com/inform-inc/inform-mobile-sdk-framework.git", :tag => "1.0.5" }
+s.source       = { :git => "https://github.com/inform-inc/inform-mobile-sdk-framework.git", :tag => "1.0.6" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
